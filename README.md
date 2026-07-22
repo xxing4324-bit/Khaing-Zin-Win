@@ -1,7 +1,7 @@
 👨‍💻 Hi there, I'm Khaing-Zin-Win
 📌 About Me
-Final-year Computer Science student with a strong interest in Requirement Analysis and Technical Documentation (SRS). I have hands-on experience collaborating on academic software projects with a proactive approach to team tasks.
 
+Final-year Computer Science student with a strong interest in Requirement Analysis and Technical Documentation (SRS). I have hands-on experience collaborating on academic software projects with a proactive approach to team tasks.
 I am eager to contribute to real-world software development teams, learn from senior professionals, and continuously enhance my technical and business analysis skills in a professional environment.
 
 🎓 Currently studying Computer Science / IT (Final Year)
